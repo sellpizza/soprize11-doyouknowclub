@@ -91,4 +91,11 @@
  </br>
  
  **6단계**</br>
+ ```
+ python preprocess_images.py
+ ```
+ 
+ </br>
+ 
+ **7단계**</br>
  jupyter notebook을 실행하고 indivisual_analysis.ipynb를 따라 데이터 분석/시각화를 하시면 됩니다.
